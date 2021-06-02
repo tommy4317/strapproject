@@ -1,0 +1,27 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+p {
+    font-style: italic;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    color: orangered;
+}
+.navbar-brand {
+    background-color: lightcoral;
+    padding: 5px 5px;
+}
+
+.display-4 {
+    padding-top: 25px;
+}
+
+.jumbotron {
+    text-align: center;
+}
